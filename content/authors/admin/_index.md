@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Job Candidate
+title: SEUNG HYUN KIM
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: PhD in Quantitative Marketing
 
 # Organizations/Affiliations
 organizations:
-- name: Big Ten University
+- name: University of California San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics. 
+bio: My research focuses on online platforms, field experiments, and consumer behavior. I am particularly interested in how platform design can influence consumers behavior.
 
 interests:
-- Health economics
-- Environmental economics
+- Online Platform
+- Platform Design
+- New Technology
+- Field Experiment
+- Consumer Behavior
  
 
 education:
   courses:
-  - course: PhD in Economics
-    institution: Big Ten University
-    year: 2021 (Expected)
-  - course: MS in Economics
-    institution:  Big Ten University
-    year: 2017  
-  - course: BA in Economics
-    institution: Liberal Arts College
+  - course: PhD in Quantitative Marketing
+    institution: University of California San Diego
+    year: 2024 (expected)
+  - course: M.A. in Economics 
+    institution: Duke University
     year: 2016
+  - course: B.A. in Economics
+    institution: Hankuk University of Foreign Studies
+    year: 2013
 
 
 # Social/Academic Networking
@@ -45,10 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/twitter_handle
+  link: '#contact'  # For a direct email link, use "mailto:Seung.Kim@rady.ucsd.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
@@ -72,4 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2020-2021 job market. 
+Thank you for visiting my website! I am a PhD candidate in Quantitative Marketing at the University of California, San Diego. 
+
+My research focuses on online platforms, field experiments, and consumer behavior. I am particularly interested in how platform design can influence consumers behavior.
